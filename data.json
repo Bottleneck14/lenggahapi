@@ -2,6 +2,7 @@
   "data": [
     {
       "id": 0,
+      "kategori":["pakaian_perempuan"],
       "populer": "true",
       "nama": "rok celana anak",
       "harga": "Rp. 84.000",
@@ -14,6 +15,7 @@
     },
     {
       "id": 1,
+      "kategori":["pakaian_perempuan","dress"],
       "populer": "true",
       "nama": "dress polos anak perempuan",
       "harga": "Rp. 84.000",
@@ -26,6 +28,7 @@
     },
     {
       "id": 2,
+      "kategori":["pakaian_laki","cp"],
       "populer": "true",
       "nama": "celana panjang polos",
       "harga": "Rp. 89.000",
@@ -38,6 +41,7 @@
     },
     {
       "id": 3,
+      "kategori":["pakaian_muslim"],
       "populer": "true",
       "nama": "kemeja koko anak",
       "harga": "Rp. 79.000",
@@ -50,6 +54,7 @@
     },
     {
       "id": 4,
+      "kategori":["pakaian_perempuan"],
       "populer": "false",
       "nama": "kinza pants",
       "harga": "Rp. 84.000",
@@ -62,6 +67,7 @@
     },
     {
       "id": 5,
+      "kategori":["pakaian_perempuan"],
       "populer": "false",
       "nama": "carla dress renda",
       "harga": "Rp. 68.000",
@@ -74,6 +80,7 @@
     },
     {
       "id": 6,
+      "kategori":["pakaian_laki"],
       "populer": "false",
       "nama": "kemeja polos anak unisex",
       "harga": "Rp. 79.000",
@@ -86,6 +93,7 @@
     },
     {
       "id": 7,
+      "kategori":["pakaian_laki"],
       "populer": "false",
       "nama": "celana pendek anak polos",
       "harga": "Rp. 84.000",
